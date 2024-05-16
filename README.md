@@ -14,8 +14,7 @@ Qualitative and quantitative comparisons
 
 Network Architecture
 ====
-[Architectural](![fig 2](https://github.com/WJ-CV/DSSNet-IEEE-TITS/assets/101792089/1d7a3256-c819-4884-a003-a038959e8611)
-)
+![fig 2](https://github.com/WJ-CV/DSSNet-IEEE-TITS/assets/101792089/1d7a3256-c819-4884-a003-a038959e8611)
 
 
 Citation
