@@ -22,7 +22,7 @@ Qualitative comparison
 
 We provide prediction saliency maps for both fully supervised and 20% semi-supervised training schemes.
 ====
-https://pan.baidu.com/s/1cu8Fr6DUKgiXZI4Khd5SQg, code: 0825
+[Baidu Pan link:] (https://pan.baidu.com/s/1cu8Fr6DUKgiXZI4Khd5SQg). code: 0825
 
 Citation
 ===
