@@ -20,7 +20,7 @@ Qualitative comparison
 ====
 ![fig 6](https://github.com/WJ-CV/DSSNet-IEEE-TITS/assets/101792089/6e386e47-a7cc-4a9c-91ec-c8d51647bdf9)
 
-Here are the predicted saliency maps using fully supervised and 20% semi-supervised training schemes.
+We provide prediction saliency maps for both fully supervised and 20% semi-supervised training schemes.
 ====
 (https://pan.baidu.com/s/1cu8Fr6DUKgiXZI4Khd5SQg)(code: 0825)
 
