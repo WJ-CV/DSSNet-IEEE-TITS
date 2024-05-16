@@ -13,7 +13,8 @@ Qualitative and quantitative comparisons with the latest fully supervised method
 
 Network Architecture
 ====
-![Network](https://user-images.githubusercontent.com/101792089/224655829-5aa781b8-b8c8-4387-857c-a8c0e551a610.png)
+![Network](![fig 2](https://github.com/WJ-CV/DSSNet-IEEE-TITS/assets/101792089/1d7a3256-c819-4884-a003-a038959e8611)
+)
 
 
 Citation
